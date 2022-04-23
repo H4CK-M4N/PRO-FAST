@@ -1,7 +1,7 @@
-*git clone https://github.com/H4CK-M4N/PRO-FAST
+* git clone https://github.com/H4CK-M4N/PRO-FAST
 
-*cd PRO-FAST
+* cd PRO-FAST
 
-*git pull
+* git pull
 
-*python pro.so
+* python pro.so
