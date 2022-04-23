@@ -4,4 +4,4 @@
 
 * git pull
 
-* python pro.so
+* python pro.py
